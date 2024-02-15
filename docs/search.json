@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "Website about aesthetics blah blah blah blah waffle waffle waffle some more\n",
+      "author": [
+        {
+          "name": "Umayma",
+          "url": "https://github.com/MayxM/Stylit"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2024-02-15T17:08:53+00:00"
+    },
+    {
+      "path": "aesthetics.html",
+      "title": "Aesthetics",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\nIn 2024, fashion isn’t just about the clothes you wear; it’s about the vibe you radiate. The world of aesthetics has evolved, offering numerous styles to express your personality, mood, and passions. From the dreamy allure of Fairycore to the simplicity of minimailsm, there’s an aesthetic for every soul out there.take a look at the aesthetics and who knows? You might just find the style that speaks to your heart. Take a look at our aesthetics guide to get some easy tips. Maybe your inner aesthetic is waiting for you to discover it!\nTypes of aesthetics\nLet’s dive into some captivating aesthetics that might just resonate with your soul:\n\n\n\n",
+      "last_modified": "2024-02-15T17:08:53+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Stylit",
+      "author": [],
+      "contents": "\n\n          \n          \n          Stylit\n          \n          \n          Home\n          About\n          Aesthetics\n          Trending\n          ☰\n          \n          \n      \n        \n          Stylit\n          \n            \n                \n                  \n                    \n                  \n                \n              \n                            \n                \n                  \n                    \n                  \n                \n              \n                            \n                \n                  \n                    \n                    Contact Us\n                  \n                \n              \n                          \n        \n\n        \n          \n      \n      \n        \n          \n          Introduction\n          Style savvy - Discover your unique style with our\n          guide to the latest fashion trends and aesthetic styles.\n          So, whether you’re a fashion explorer or a style explorer,\n          Stylit has your back (and your front, and your sleeves… you\n          get the idea). Let’s turn the fashion dial to fabulous!\n          \n          \n          Aesthetics\n          ** Fashion evolves over time and, this season, there is a\n          trend that has not gone unnoticed: ‘aesthetic’ style\n          💎. The basis of this new movement surrounds aesthetics,\n          meaning it considers the nature of beauty, art and a taste for\n          all that is beautiful to look at.💎\n          \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Stylit\n            \n            \n              \n                \n                                    \n                    \n                      \n                    \n                  \n                                    \n                    \n                      \n                    \n                  \n                                    \n                    \n                      \n                      Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Style savvy - Discover your unique style with\n              our guide to the latest fashion trends and aesthetic\n              styles.\n              So, whether you’re a fashion explorer or a style\n              explorer, Stylit has your back (and your front, and your\n              sleeves… you get the idea). Let’s turn the fashion dial to\n              fabulous!\n              \n              \n              Aesthetics\n              ** Fashion evolves over time and, this season, there is\n              a trend that has not gone unnoticed: ‘aesthetic’\n              style 💎. The basis of this new movement surrounds\n              aesthetics, meaning it considers the nature of beauty, art\n              and a taste for all that is beautiful to look at.💎\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-02-15T17:08:55+00:00"
+    },
+    {
+      "path": "trending.html",
+      "title": "Minimilism",
+      "description": "the current trend of fashion is Minimalism where aesthetics meet simplicity\n",
+      "author": [],
+      "contents": "\nMinimalism is all about simplicity, elegance, and functionality, with clean lines, basic shapes, and neutral colors. Whether you are looking for a classic trench coat, a cozy sweater, or a sleek pair of jeans, Stylit will show you the best options for your minimalist wardrobe. Get ready to be inspired by the latest trends and tips from our experts, and discover how to live with less and love it more. Stylit is your ultimate guide to minimalist fashion. 🖤\n\n\n\n",
+      "last_modified": "2024-02-15T17:08:57+00:00"
+    }
+  ],
+  "collections": []
+}
