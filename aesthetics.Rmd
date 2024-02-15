@@ -13,5 +13,81 @@ knitr::opts_chunk$set(echo = FALSE)
 
 In 2024, fashion isn't just about the clothes you wear; it's about the vibe you radiate. The world of aesthetics has evolved, offering numerous styles to express your personality, mood, and passions. From the dreamy allure of Fairycore to the simplicity of minimailsm, there's an aesthetic for every soul out there.take a look at the aesthetics and who knows? You might just find the style that speaks to your heart. Take a look at our aesthetics guide to get some easy tips. Maybe your inner aesthetic is waiting for you to discover it!
 
-## Types of aesthetics
-Let’s dive into some captivating aesthetics that might just resonate with your soul:
+# Types of aesthetics:
+### Let’s dive into some captivating aesthetics that might just resonate with your soul:
+
+## Soft Girl Aesthetic:
+🎀 Sweetness Overload: Pastels, oversized sweaters, and whimsical vibes.
+
+🌸 Hair and Makeup: Soft waves, blush, and a sprinkle of fairy dust.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Dark Academia Aesthetic:
+📚 Intellectual Charm: Blazers, turtlenecks, and a love for vintage books.
+
+🕯️ Bookish Ambiance: Imagine candlelit study sessions and profound thoughts.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Kawaii Aesthetic:
+👘Cuteness Galore: Pastel colors, plushies, and a sprinkle of joy.
+
+🎈 Spread Positivity: Because life needs more kawaii moments.
+
+![Flower](images/mood_board.png){width=100%}
+
+## E-girl Aesthetic:
+🖤 Digital Edge: Cyberpunk chic, graphic tees, and neon dreams.
+
+💻 Online Persona: Rule the internet with confidence.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Fairycore Aesthetic:
+🌿 Enchanting Whimsy: Forests, flower crowns, and ethereal dresses.
+
+✨ Nature’s Magic: Where fairies dance under moonlit canopies.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Preppy Aesthetic:
+🎓 Campus Chic: Blazers, pleated skirts, and a dash of sophistication.
+
+🍂 Ivy-Covered Walkways: Academia meets style.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Casual Aesthetic:
+👟 Effortless Comfort: Jeans, hoodies, and weekend-ready vibes.
+
+☕ Cozy Evenings: Because life’s too short for uncomfortable shoes.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Minimalist Aesthetic:
+🌟 Less Is More: Clean lines, neutral tones, and intentional living.
+
+📦 Quality Essentials: Declutter and embrace simplicity.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Cottagecore Aesthetic:
+🏡 Enchanting Simplicity: Flowy dresses, straw hats, and imaginary gardens.
+
+☀️ cottagecore is all about cozy warmth and embracing sunshine.
+
+![Flower](images/mood_board.png){width=100%}
+
+## Streetwear aesthetic
+👟🕶️🧢🎒🖤Urban Influence: Graffiti and bomber jackets
+
+🌆 City Life: Embrace the hustle and bustle with style and swagger.
+
+![Flower](images/mood_board.png){width=100%}
+
+### Have u chosen yet...
+Mix, match, and let your inner aesthetic shine! Which vibe speaks to your soul? ✨ 
+ 
+
+

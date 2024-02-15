@@ -20,6 +20,3 @@ So, whether you’re a fashion explorer or a style explorer, Stylit has your bac
 
 # Aesthetics
 ** Fashion evolves over time and, this season, there is a trend that has not gone unnoticed: *'aesthetic'* style `r emo::ji("gem")`. The basis of this new movement surrounds aesthetics, meaning it considers the nature of beauty, art and a taste for all that is beautiful to look at.`r emo::ji("gem")`
-
-
-![](images/mood_board.png){width=100%}
