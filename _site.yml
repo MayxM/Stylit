@@ -1,0 +1,16 @@
+name: "."
+title: "Stylit"
+description: |
+  Stylit
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Aesthetics"
+      href: aesthetics.html
+    - text: "Trending"
+      href: trending.html
+output: distill::distill_article
