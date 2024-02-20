@@ -7,7 +7,7 @@ links:
   - label: '<i class="fa-brands fa-github fa-bounce" style="color: #6899ee;"></i>'
     url: 'https://github.com/MayxM/Stylit target="_blank"'
   - label: '<i class="fa-regular fa-envelope fa-beat-fade" style="color: #6899ee;"></i> Contact Us'
-    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+    url: "mailto:umayma.ahmed_22@greenoak.bham.sch.uk"
 output:
   postcards::solana
 site: distill::distill_website

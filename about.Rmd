@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  Website about aesthetics blah blah blah blah waffle waffle waffle some more
+  Website about the different types of aesthetics
 author:
   - name: Umayma 
     url: https://github.com/MayxM/Stylit
