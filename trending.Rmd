@@ -11,4 +11,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Minimalism is all about simplicity, elegance, and functionality, with clean lines, basic shapes, and neutral colors. Whether you are looking for a classic trench coat, a cozy sweater, or a sleek pair of jeans, Stylit will show you the best options for your minimalist wardrobe. Get ready to be inspired by the latest trends and tips from our experts, and discover how to live with less and love it more. Stylit is your ultimate guide to minimalist fashion. 🖤
 
+<<<<<<< HEAD
 &#128507;
+=======
+
+>>>>>>> 1d4f6e9bce5377ad42774582fc1c669ea250db04
