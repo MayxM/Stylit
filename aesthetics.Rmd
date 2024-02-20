@@ -22,21 +22,21 @@ In 2024, fashion isn't just about the clothes you wear; it's about the vibe you 
 
 🌸 Hair and Makeup: Soft waves, blush, and a sprinkle of fairy dust.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/soft-girl.png){width=100%}
 
 ## Dark Academia Aesthetic:
 📚 Intellectual Charm: Blazers, turtlenecks, and a love for vintage books.
 
 🕯️ Bookish Ambiance: Imagine candlelit study sessions and profound thoughts.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/dark-academia.png){width=100%}
 
 ## Kawaii Aesthetic:
 👘Cuteness Galore: Pastel colors, plushies, and a sprinkle of joy.
 
 🎈 Spread Positivity: Because life needs more kawaii moments.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/cute.png){width=100%}
 
 ## E-girl Aesthetic:
 🖤 Digital Edge: Cyberpunk chic, graphic tees, and neon dreams.
