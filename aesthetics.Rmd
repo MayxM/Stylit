@@ -43,28 +43,28 @@ In 2024, fashion isn't just about the clothes you wear; it's about the vibe you 
 
 💻 Online Persona: Rule the internet with confidence.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/e.png){width=100%}
 
 ## Fairycore Aesthetic:
 🌿 Enchanting Whimsy: Forests, flower crowns, and ethereal dresses.
 
 ✨ Nature’s Magic: Where fairies dance under moonlit canopies.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/fairycore.png){width=100%}
 
 ## Preppy Aesthetic:
 🎓 Campus Chic: Blazers, pleated skirts, and a dash of sophistication.
 
 🍂 Ivy-Covered Walkways: Academia meets style.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/preppy.png){width=100%}
 
 ## Casual Aesthetic:
 👟 Effortless Comfort: Jeans, hoodies, and weekend-ready vibes.
 
 ☕ Cozy Evenings: Because life’s too short for uncomfortable shoes.
 
-![Flower](images/mood_board.png){width=100%}
+![Flower](images/casual.png){width=100%}
 
 ## Minimalist Aesthetic:
 🌟 Less Is More: Clean lines, neutral tones, and intentional living.
