@@ -22,70 +22,70 @@ In 2024, fashion isn't just about the clothes you wear; it's about the vibe you 
 
 🌸 Hair and Makeup: Soft waves, blush, and a sprinkle of fairy dust.
 
-![Flower](images/soft-girl.png){width=100%}
+![](images/soft-girl.png){width=100%}
 
 ## Dark Academia Aesthetic:
 📚 Intellectual Charm: Blazers, turtlenecks, and a love for vintage books.
 
 🕯️ Bookish Ambiance: Imagine candlelit study sessions and profound thoughts.
 
-![Flower](images/dark-academia.png){width=100%}
+![](images/dark-academia.png){width=100%}
 
 ## Kawaii Aesthetic:
 👘Cuteness Galore: Pastel colors, plushies, and a sprinkle of joy.
 
 🎈 Spread Positivity: Because life needs more kawaii moments.
 
-![Flower](images/cute.png){width=100%}
+![](images/cute.png){width=100%}
 
 ## E-girl Aesthetic:
 🖤 Digital Edge: Cyberpunk chic, graphic tees, and neon dreams.
 
 💻 Online Persona: Rule the internet with confidence.
 
-![Flower](images/e.png){width=100%}
+![](images/e.png){width=100%}
 
 ## Fairycore Aesthetic:
 🌿 Enchanting Whimsy: Forests, flower crowns, and ethereal dresses.
 
 ✨ Nature’s Magic: Where fairies dance under moonlit canopies.
 
-![Flower](images/fairycore.png){width=100%}
+![](images/fairycore.png){width=100%}
 
 ## Preppy Aesthetic:
 🎓 Campus Chic: Blazers, pleated skirts, and a dash of sophistication.
 
 🍂 Ivy-Covered Walkways: Academia meets style.
 
-![Flower](images/preppy.png){width=100%}
+![](images/preppy.png){width=100%}
 
 ## Casual Aesthetic:
 👟 Effortless Comfort: Jeans, hoodies, and weekend-ready vibes.
 
 ☕ Cozy Evenings: Because life’s too short for uncomfortable shoes.
 
-![Flower](images/casual.png){width=100%}
+![](images/casual.png){width=100%}
 
 ## Minimalist Aesthetic:
 🌟 Less Is More: Clean lines, neutral tones, and intentional living.
 
 📦 Quality Essentials: Declutter and embrace simplicity.
 
-![Flower](images/minimalist.png){width=100%}
+![](images/minimalist.png){width=100%}
 
 ## Cottagecore Aesthetic:
 🏡 Enchanting Simplicity: Flowy dresses, straw hats, and imaginary gardens.
 
 ☀️ cottagecore is all about cozy warmth and embracing sunshine.
 
-![Flower](images/cottagecore.png){width=100%}
+![](images/cottagecore.png){width=100%}
 
 ## Streetwear aesthetic
 👟🕶️🧢🎒🖤Urban Influence: Graffiti and bomber jackets
 
 🌆 City Life: Embrace the hustle and bustle with style and swagger.
 
-![Flower](images/sw.png){width=100%}
+![](images/sw.png){width=100%}
 
 ### Have u chosen yet...
 Mix, match, and let your inner aesthetic shine! Which vibe speaks to your soul? ✨ 
