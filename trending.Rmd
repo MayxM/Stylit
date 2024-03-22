@@ -1,7 +1,7 @@
 ---
-title: "Minimilism"
+title: "Casual aesthetic"
 description: |
-  the current trend of fashion is Minimalism where aesthetics meet simplicity
+  The current trend of fashion is being Casual, where aesthetics meet simplicity
 output: distill::distill_article
 ---
 
@@ -9,4 +9,4 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Minimalism is all about simplicity, elegance, and functionality, with clean lines, basic shapes, and neutral colors. Whether you are looking for a classic trench coat, a cozy sweater, or a sleek pair of jeans, Stylit will show you the best options for your minimalist wardrobe. Get ready to be inspired by the latest trends and tips from our experts, and discover how to live with less and love it more. Stylit is your ultimate guide to minimalist fashion. 🖤
+CASUAL AESTHETIC is all about simplicity, elegance, and functionality, with clean lines, basic shapes, and neutral colors. Whether you are looking for a classic trench coat, a cozy sweater, or a sleek pair of jeans, Stylit will show you the best options for your CASUAL wardrobe. Get ready to be inspired by the latest trends and tips from our experts, and discover how to live with less and love it more. Stylit is your ultimate guide to Casual fashion. 🖤

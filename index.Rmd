@@ -1,6 +1,6 @@
 ---
 title: "Stylit"
-image: "images/dress1.jpeg"
+image: "images/dress8.png"
 links:
   - label: '<i class="fa-brands fa-twitter fa-flip" style="color: #6899ee;"></i>'
     url: 'https://twitter.com/R_Girls_School target="_blank"'
@@ -9,16 +9,14 @@ links:
   - label: '<i class="fa-regular fa-envelope fa-beat-fade" style="color: #6899ee;"></i> Contact Us'
     url: "mailto:umayma.ahmed_22@greenoak.bham.sch.uk"
 output:
-  postcards::solana
+  postcards::jolla
 site: distill::distill_website
 ---
  
-## Introduction
+
 *Style savvy -* Discover your unique style with our guide to the latest fashion trends and aesthetic styles.
 
 So, whether you’re a fashion explorer or a style explorer, Stylit has your back (and your front, and your sleeves… you get the idea). Let’s turn the fashion dial to fabulous! 
 
-# Aesthetics
-** Fashion evolves over time and, this season, there is a trend that has not gone unnoticed: *'aesthetic'* style `r emo::ji("gem")`. The basis of this new movement surrounds aesthetics, meaning it considers the nature of beauty, art and a taste for all that is beautiful to look at.`r emo::ji("gem")`
 
 

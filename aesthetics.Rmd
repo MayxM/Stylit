@@ -10,6 +10,8 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Aesthetics
+** Fashion evolves over time and, this season, there is a trend that has not gone unnoticed: *'aesthetic'* style `r emo::ji("gem")`. The basis of this new movement surrounds aesthetics, meaning it considers the nature of beauty, art and a taste for all that is beautiful to look at.`r emo::ji("gem")`
 
 In 2024, fashion isn't just about the clothes you wear; it's about the vibe you radiate. The world of aesthetics has evolved, offering numerous styles to express your personality, mood, and passions. From the dreamy allure of Fairycore to the simplicity of minimailsm, there's an aesthetic for every soul out there.take a look at the aesthetics and who knows? You might just find the style that speaks to your heart. Take a look at our aesthetics guide to get some easy tips. Maybe your inner aesthetic is waiting for you to discover it!
 
