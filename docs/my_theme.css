@@ -77,4 +77,21 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+h1 {
+      color: #1F305E;
+      font-size: 36px;
+    }
+    
+      .btn-outline-dark {
+        background-color: transparent; 
+        color: rgba(125, 147, 185);
+        border: 1px solid;
+        border-color: rgba(125, 147, 185);
+    }
+    
 
+    .btn-outline-dark:hover {
+        background-color: rgba(125, 147, 185);
+        border-color: rgba(125, 147, 185);
+        color: #687A99;
+    }
