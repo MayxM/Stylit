@@ -1,12 +1,20 @@
 ---
-title: "Casual aesthetic"
+title: "Cottagecore🌻"
 description: |
-  The current trend of fashion is being Casual, where aesthetics meet simplicity
+  The current trend of fashion is Cottagecore, "where beauty meets gardens.”
+
+
 output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+ 
+If you’re looking for enchanting outfits with a Cottagecore twist, I’ve got the perfect vintage aesthetic for you!👒
 
-CASUAL AESTHETIC is all about simplicity, elegance, and functionality, with clean lines, basic shapes, and neutral colors. Whether you are looking for a classic trench coat, a cozy sweater, or a sleek pair of jeans, Stylit will show you the best options for your CASUAL wardrobe. Get ready to be inspired by the latest trends and tips from our experts, and discover how to live with less and love it more. Stylit is your ultimate guide to Casual fashion. 🖤
+Feel in the moment as you imagine sunlit meadows, wildflower bouquets, and cozy corners. It’s about embracing nature and natural elements.Imagine a lace-trimmed dress and flowy linen, reminiscent of fairy tales. These dresses capture the essence of Cottagecore. Let the countryside inspire your wardrobe while adding some dreamy personality.” 🌿🌸
+
+Stylit will show you the best options for your Cottagecore wardrobe. Get ready to be inspired by the latest trends and tips from Stylit, and discover how to glowup your wardrobe with the help of nature. Stylit is your ultimate guide to Cottagecore fashion. 🍓🌼
+
+![](images/cottage.png){width=100%}

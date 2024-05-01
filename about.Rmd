@@ -13,7 +13,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I made this website because ...
+In 2024, fashion isn't just about the clothes you wear; it's about the vibe you radiate. The world of aesthetics has evolved, offering numerous styles to express your personality, mood, and passions. From the dreamy allure of Fairycore to the simplicity of minimailsm, there's an aesthetic for every soul out there.
+
+This is a website about different aesthetics to help lost people find their inner aesthetic!🦋
 
 
 
